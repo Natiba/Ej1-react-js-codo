@@ -9,13 +9,15 @@ const nombre4 = "Marcelo" // no se puede cambiar el valor
 
 let nombreApellido = "Juan Gabriel" // lowerCamelCase
 let NombreNombre2 = "pepe pepe" // UpperCamelCase
+
 //Snake_Case
+
 let apellido_nombre = " Fernandez Juan " //Snake_Case */
 
 /* let nombre = "Pedro"; */
 
-
 //operaciones Matematicas
+
 /* let numero1 = 21;
 let numero2= 6;
 let suma  = numero1 + numero2;
